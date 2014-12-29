@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Goals](goals.md)
-* Other Resources
+* [Other Resources](resources.md)
 
