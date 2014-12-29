@@ -2,4 +2,5 @@
 
 * [Introduction](README.md)
 * [Goals](goals.md)
+* Other Resources
 
