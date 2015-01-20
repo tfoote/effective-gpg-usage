@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Goals](goals.md)
-* Creating Keys
+* [Creating Keys](creating_keys.md)
 * Resources
 
