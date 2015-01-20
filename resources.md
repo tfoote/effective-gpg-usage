@@ -9,3 +9,5 @@
 [Setting up GPG on a USB Drive](https://help.ubuntu.com/community/GPGKeyOnUSBDrive) The Ubuntu community guide for setting up GPG on a USB key. 
 
 [Keysigning Party HOWTO](http://cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html) A summary of how to hold and participate in a keysigning party. 
+
+[Creating the Perfect GPG Keypair](https://alexcabal.com/creating-the-perfect-gpg-keypair/) A guide to creating keys and subkeys.
